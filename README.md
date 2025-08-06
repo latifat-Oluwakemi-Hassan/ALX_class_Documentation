@@ -77,12 +77,14 @@ The following power Bi features were used:
 
 ![Project Start](Project_start.png)
 
-![](
+![](project_completion.png)
 
 
 📌 Key Indicators (Page 2)
  - Vendor cost comparisons
  - High-cost vendors vs low-cost
+
+![](vendor_details.png)
 
 Top contributing provinces to budget overrun
 - Average Cost of Improvement (Page 3)
@@ -90,17 +92,25 @@ Top contributing provinces to budget overrun
   Province
   Improvement Type
   Rural vs. Urban
+  
+![](Average-cost_of_improvement.png)
 
  # Insights:
-Sokoto province is nearly 40% over budget due to terrain and travel time.
-48% of the population now has basic water access and 22% complete (up from 34%) in 5 years.
-Most expensive vendors are operating in the toughest regions, not necessarily overcharging.
+- Sokoto province is nearly 40% over budget due to terrain and travel time.
+- 48% of the population now has basic water access and 22% complete (up from 34%) in 5 years. 
+- Most expensive vendors are operating in the toughest regions, not necessarily overcharging.
 
 ## 🔚 Conclusion
 This dashboard bridges the gap between field operations and funding stakeholders by:
-Making spending visible
-Tracking improvements geographically and over time
-Helping decision-makers allocate resources efficiently
+- Making spending visible.
+- Tracking improvements geographically and over time
+- Helping decision-makers allocate resources efficiently
 
    
+📎 Additional Notes
+   - This is my first project on github
+   -  I will appreciate your reviews
+   -  I will love to explore more
+   -  For questions or collaboration, [connect with me on LinkedIn](https:www.linkedin.com/in/hassanlatifat)
 
+![](image.jpeg)
