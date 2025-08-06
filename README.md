@@ -50,12 +50,17 @@ The following power Bi features were used:
 - Merged vendor data using 'assigned_vendor' field.
 - Fixing the budgeted_improvement_cost column in the project_progress table broken by the updated data using DAX
 - Create a measure for total_number_of_improvement
+
+![](budgeted_improvement_dax.png)      
   
  ##  🧱 Modeling
  Power Bi automatically connected related tables. 
  - create a connection between project_progress table and vendor
  - check the relationship and directionality between water_source and project_progress
- - Use of ALLEXCEPT() for filtering by town
+ - Use of ALLEXCEPT() for filtering by
+   
+![](Modelling.png)     :|: ![](Filter_AllExcept.png)
+
  Key calculated Measure
 - Total_improvement
 - Pct_project_complete
@@ -69,6 +74,11 @@ The following power Bi features were used:
 - Budget vs. Actual Spend (KPI card)
 - Map of project progress by town
 - Cost breakdown by improvement type and province
+
+![Project Start](Project_start.png)
+
+![](
+
 
 📌 Key Indicators (Page 2)
  - Vendor cost comparisons
