@@ -9,7 +9,7 @@ This is a power Bi project on fiction imaginary water project in **Maji Ndogo**.
 This project is to analyse the transformation journey of **Maji Ndogo** water crisis, and to track the impact of the National water source improvement initiative and spending across **Maji Ndogo**.
 The dashboard was built in response to a need for public transparency and executive decision-making support.
 
-**_Disclaimer_** : _All datasets and reports do not represent the real community but just a friction for learning and to show my skills in power Bi._
+**_Disclaimer_** : _All datasets and reports do not represent the real community but just a fiction for learning and to show my skills in power Bi._
 
 ## ❓ Problem Statement
 Despite significant funding, decision-makers and the public lacked a clear way to track:
