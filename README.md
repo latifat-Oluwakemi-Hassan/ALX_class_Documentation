@@ -5,7 +5,7 @@
 [![Watch a quick video on maji Ndogo water crisis](https://img.youtube.com/vi/tEWnInICDHU/0.jpg)](https://youtu.be/tEWnInICDHU)All the credit goes to ALX Africa.
 
 ## Introduction
-This is a power Bi project on friction imaginary water project in **Maji Ndogo**.
+This is a power Bi project on fiction imaginary water project in **Maji Ndogo**.
 This project is to analyse the transformation journey of **Maji Ndogo** water crisis, and to track the impact of the National water source improvement initiative and spending across **Maji Ndogo**.
 The dashboard was built in response to a need for public transparency and executive decision-making support.
 
